@@ -21,4 +21,5 @@ fields:
   type: boolean
   label: IsDraft
 pages:
+- wwwroot/posts/a-new-post-v2.md
 - wwwroot/posts/a-new-post.md
