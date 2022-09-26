@@ -5,5 +5,6 @@ image: "/images/landscape.jpg"
 slug: new-post-slug-v2
 tags: []
 isdraft: true
+draft: true
 
 ---
