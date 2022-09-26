@@ -17,9 +17,9 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: isdraft
+- name: draft
   type: boolean
-  label: IsDraft
+  label: Draft
 pages:
 - wwwroot/posts/a-new-post-v2.md
 - wwwroot/posts/a-new-post.md
